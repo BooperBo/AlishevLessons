@@ -27,8 +27,6 @@ public class Thread_Interruption_Example {
 
         thread1.join();
 
-
-
         System.out.println("Thread has finished");
     }
 }
